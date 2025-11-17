@@ -65,19 +65,6 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 
     What is the difference between call by value and call by reference in C?
 
-------------------------------------------------------------------------
-
-## 📦 Folder Structure Suggestion for GitHub
-
-    LLM-fine-tuned-for-c/
-    │
-    ├── src/
-    │   ├── model_loader.py
-    │   ├── app.py
-    │
-    ├── README.md
-    ├── requirements.txt
-    └── examples/
 
 ------------------------------------------------------------------------
 
@@ -108,4 +95,4 @@ This follows the same license as `Salesforce/codet5-base` (BSD
 
 ## 🌟 Author
 
-Created by **Rhythm** --- AIML Student building awesome models.
+Created by **Rhythm** 
